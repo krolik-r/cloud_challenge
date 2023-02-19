@@ -5,3 +5,4 @@ DareIT
 
 Week 1:
  * fun with git
+ * list of enable services in project
